@@ -15,7 +15,7 @@ This repository is based on PyTorch 1.4.0.
 
    ```shell
    git clone https://github.com/liuquande/SRC-MT.git
-   cd UA-MT
+   cd SRC-MT
    ```
    
 2. Train the model:
