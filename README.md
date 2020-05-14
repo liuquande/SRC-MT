@@ -17,7 +17,9 @@ This repository is based on PyTorch 1.4.0.
    git clone https://github.com/liuquande/SRC-MT.git
    cd SRC-MT
    ```
-   
+
+2. Organize the data in ./dataset
+
 2. Train the model:
  
    ```shell
