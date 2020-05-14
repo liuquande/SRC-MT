@@ -5,6 +5,7 @@ by [Quande Liu](https://github.com/liuquande), [Lequan Yu](https://yulequan.gith
 
 This repository is for our TMI 2020 paper '[Semi-supervised Medical Image Classification with Relation-driven  Self-ensembling Model](https://github.com/liuquande)'. 
 
+![](assets/framework.png)
 
 ### Installation
 This repository is based on PyTorch 1.4.0.
