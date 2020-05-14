@@ -18,12 +18,11 @@ This repository is based on PyTorch 1.4.0.
    cd SRC-MT
    ```
 
-2. Organize the data in ./dataset
+2. Organize the dataset
 
 2. Train the model:
  
    ```shell
-   cd code
    python train_SRC_MT.py --gpu 0,1,2
    ```
 
