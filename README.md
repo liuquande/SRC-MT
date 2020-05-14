@@ -29,7 +29,7 @@ This repository is based on PyTorch 1.4.0.
 
 ## Citation
 
-If SRC-MT is useful for your research, please consider citing:
+If this repository is useful for your research, please cite:
 
     @inproceedings{liu2020srcmt,
          title={Semi-supervised Medical Image Classification with Relation-driven  Self-ensembling Model},
